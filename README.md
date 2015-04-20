@@ -1,7 +1,7 @@
 #Tic Tac Toe Lab
 
 + This lab is about winning the popular tic-tac-toe game
-+ You would determine if the index in the array where a palyer can play to win the game
++ You would determine if the index in the array where a player can play to win the game
 + There would be only a solution for a win per game, no multiple wins in a game
 + Spaces 3 and 7 are used as delimiters and your answer should never return them
 + 'X' and 'O' are the letters played by the players of the game and '-' is for empty spaces that are yet to be played
